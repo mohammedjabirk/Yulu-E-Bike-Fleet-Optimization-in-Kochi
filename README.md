@@ -1,10 +1,12 @@
 🚴‍♂️ Real-Time Dashboard for Yulu Electric Bike Optimization – Kochi
+
 🧩 Problem Statement
 
 Yulu has deployed a small fleet of shared electric bikes across Kochi to promote sustainable urban mobility. However, challenges such as peak-hour shortages, underutilized zones, and inefficient maintenance demand a real-time analytics solution.
 This project builds a Tableau real-time dashboard that provides actionable insights to optimize fleet distribution, improve operations, and support expansion.
 
 🎯 Project Objectives
+
 ✅ Improve Fleet Utilization
 
 Identify high/low demand zones
@@ -36,6 +38,7 @@ Improve availability during peak periods
 Strengthen green first & last-mile mobility
 
 📊 Dashboard Features
+
 🚦 Fleet Status Tracker
 
 Bike ID, battery %, zone, last maintenance
@@ -75,6 +78,7 @@ Trip start/end patterns
 Unique users trend
 
 🧪 Dataset Structure
+
 1️⃣ Bike Data
 
 bike_id
@@ -140,6 +144,7 @@ Excel — data cleaning
 Geospatial Mapping — zone heatmaps
 
 💼 Business Impact
+
 🔹 Operational Improvements
 
 Reduced downtime
